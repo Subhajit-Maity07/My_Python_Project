@@ -1,0 +1,4 @@
+registration_id,event_id,student_id,rating
+REG001,E102,S101,5.0
+REG002,E103,S102,2.0
+REG003,E101,S103,5.0
